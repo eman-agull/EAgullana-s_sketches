@@ -11,15 +11,15 @@ background(255); //start each cycle with a plain white background
 //set the text and dot colour using RGB code
 fill(0,0,0);
 ellipse(200,300, dotDiameter, dotDiameter);
-ellipse(250,310, dotDiameter, dotDiameter);
-ellipse(300,320, dotDiameter, dotDiameter);
-ellipse(350,330, dotDiameter, dotDiameter);
-ellipse(400,340, dotDiameter, dotDiameter);
-ellipse(450,350, dotDiameter, dotDiameter);
-ellipse(500,360, dotDiameter, dotDiameter);
-ellipse(550,370, dotDiameter, dotDiameter);
-ellipse(600,380, dotDiameter, dotDiameter);
-ellipse(650,390, dotDiameter, dotDiameter);
+ellipse(250,320, dotDiameter, dotDiameter);
+ellipse(300,340, dotDiameter, dotDiameter);
+ellipse(350,360, dotDiameter, dotDiameter);
+ellipse(400,380, dotDiameter, dotDiameter);
+ellipse(450,400, dotDiameter, dotDiameter);
+ellipse(500,420, dotDiameter, dotDiameter);
+ellipse(550,440, dotDiameter, dotDiameter);
+ellipse(600,460, dotDiameter, dotDiameter);
+ellipse(650,480, dotDiameter, dotDiameter);
 line(0,300,800,300);
 line(400,0,400,600);
 }
