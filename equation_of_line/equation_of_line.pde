@@ -1,7 +1,7 @@
 int x=0;
 int length = 20;
-int m = 1;
-int c = 0;
+int m = 5;
+int c = 10;
 int y;
 
 void setup(){
